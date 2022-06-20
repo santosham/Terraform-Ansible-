@@ -1,0 +1,4 @@
+[allservers]
+server1 ansible_host=44.201.31.181	ansible_connection=ssh ansible_user=ubuntu ansible_port=22
+server2 ansible_host=3.94.153.20       ansible_connection=ssh ansible_user=ubuntu ansible_port=22
+server3 ansible_host=44.203.61.47	ansible_connection=ssh ansible_user=ubuntu ansible_port=22
